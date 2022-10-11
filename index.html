@@ -21,7 +21,7 @@
         theme: {
           screens: {
             sm: "640px",
-            md: "768px",
+            md: "760px",
             lg: "950px",
             xl: "1100px",
             "2xl": "1250px",
@@ -44,9 +44,20 @@
   <body>
     <!-- Navbar -->
     <nav class="md:sticky top-0 bg-skin z-10 border-b-[1px]" id="navbar">
-      <div class="px-8 flex justify-between items-center xl:px-20">
+      <div class="px-8 py-2 flex justify-between items-center md:py-0 xl:px-20">
         <!-- Logo -->
-        <img class="w-32 mr-12" src="./images/logo.png" alt="logo" />
+        <div>
+          <img
+            class="hidden w-32 mr-12 md:inline-block"
+            src="./images/logo.png"
+            alt="logo"
+          />
+          <img
+            class="w-10 md:hidden"
+            src="./images/icons8-shopify-black.svg"
+            alt="logo"
+          />
+        </div>
 
         <!-- Left Navigation links -->
         <div class="hidden flex-1 space-x-6 xl:block">
