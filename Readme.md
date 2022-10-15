@@ -8,7 +8,7 @@
 
 This project is a clone of Shopify website. It is created using `HTML` and `Tailwind CSS` and is responsive for both mobile and tablet screens.
 
-## Components of a website
+## Components of the website
 
 This website is divided into following sections :-
 
