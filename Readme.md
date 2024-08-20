@@ -2,7 +2,7 @@
 
 ![HTML](https://img.shields.io/badge/-HTML-red)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-blueviolet)
-![Responsive](https://img.shields.io/badge/-Responsive-brightgreen)
+![Responsive](https://img.shields.io/badge/-Responsive-blue)
 
 ## Description
 
@@ -22,8 +22,8 @@ This website is divided into following sections :-
 - Start your business section
 - Footer
 
-### Preview of the project :-
+### Preview of the project -
 
 ![Preview](<./previews/Screenshot%20(85).png>)
 
-### [Live link](https://shopify-clone-wine.vercel.app/) of the project.
+### [Live link](https://shopify-clone-beige.vercel.app/) of the project.
