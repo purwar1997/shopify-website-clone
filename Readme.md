@@ -13,13 +13,13 @@ This project is a clone of Shopify website. It is built using `HTML` and `Tailwi
 This website is divided into following sections :-
 
 - Navigation bar
-- Message section
+- Hero section
 - Bring your business online section
-- Features section
+- Offered services section
 - Explore more section
 - Empowering business owners section
 - Get help section
-- Start your business section
+- Free trial section
 - Footer
 
 ### Preview of the project
