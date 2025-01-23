@@ -8,8 +8,8 @@
 
 1. [Overview](#1-overview)
 2. [Components of the website](#2-components-of-the-website)
-3. [Live Demo](#3-live-demo)
-4. [Live Link](#4-live-link)
+3. [Live Deployment](#3-live-deployment)
+4. [Demo Video](#4-demo-video)
 
 ## 1. Overview
 
@@ -29,12 +29,12 @@ This website is divided into following sections :-
 - Free trial section
 - Footer
 
-## 3. Live Demo
+## 3. Live Deployment
 
-To watch the **live demo video** of project, click on the image below.
+Clone of Shopify website is deployed on Vercel. `Live link` of the deployed project - [click here](https://shopify-clone-beige.vercel.app/).
 
-[![preview](<./previews/Screenshot%20(85).png>)](https://www.youtube.com/watch?v=MK_tpxLLMNQ)
+## 4. Demo Video
 
-## 4. Live Link
+Demo video of the project is uploaded on youtube. To watch the demo video, [click here](https://youtu.be/MK_tpxLLMNQ).
 
-Shopify website clone is deployed on Vercel. **Live link** of the deployed project - [click here](https://shopify-clone-beige.vercel.app/).
+[![Preview](./previews/preview-1.png)](https://youtu.be/MK_tpxLLMNQ)
