@@ -13,7 +13,7 @@
 
 ## 1. Overview
 
-This project is a static clone of Shopify website. It is built using `HTML` and `Tailwind CSS` and is responsive for both mobile and tablet screens.
+This project is a static clone of Shopify website. It is built using HTML and Tailwind CSS and is responsive for both mobile and tablet screens.
 
 ## 2. Components of the website
 
@@ -31,7 +31,7 @@ This website is divided into following sections :-
 
 ## 3. Live Deployment
 
-Clone of Shopify website is deployed on Vercel. `Live link` of the deployed project - [click here](https://shopify-clone-beige.vercel.app/).
+Clone of Shopify website is deployed on Vercel. To visit the live deployment, [click here](https://shopify-clone-beige.vercel.app/).
 
 ## 4. Demo Video
 
